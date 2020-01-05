@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="309b39e7-2f3f-49a1-b353-e5e4a0576cac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="309b39e7-2f3f-49a1-b353-e5e4a0576cac" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ajazs &lt;shazimajaz1@csus.edu&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Vp5dWV9Eed5i3NAoxsZ2CJEf4g" />
@@ -29,6 +31,14 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Planning" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Planning" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -68,11 +78,57 @@
       <option name="presentableId" value="Default" />
       <updated>1577937283561</updated>
       <workItem from="1577937285207" duration="515000" />
-      <workItem from="1578208992486" duration="371000" />
+      <workItem from="1578208992486" duration="724000" />
     </task>
+    <task id="LOCAL-00001" summary="Added the planning folder that contains the planned screenshots of the component tree.">
+      <created>1578210405446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578210405446</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Added the planning folder that contains the planned screenshots of the component tree." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the planning folder that contains the planned screenshots of the component tree." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="15" y="214" key="CommitChangelistDialog2" timestamp="1578210405289">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="15" y="214" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1578210405289" />
+    <state x="279" y="512" width="848" height="199" key="Github.ShareDialog" timestamp="1578210544721">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="279" y="512" width="848" height="199" key="Github.ShareDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1578210544721" />
+    <state width="894" height="330" key="GridCell.Tab.0.bottom" timestamp="1578210641051">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="894" height="330" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1578210641051" />
+    <state width="894" height="330" key="GridCell.Tab.0.center" timestamp="1578210641050">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="894" height="330" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1578210641050" />
+    <state width="894" height="330" key="GridCell.Tab.0.left" timestamp="1578210641049">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="894" height="330" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1578210641049" />
+    <state width="894" height="330" key="GridCell.Tab.0.right" timestamp="1578210641050">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="894" height="330" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1578210641050" />
+    <state x="57" y="340" key="Vcs.Push.Dialog.v2" timestamp="1578210412844">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="57" y="340" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1578210412844" />
   </component>
 </project>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="309b39e7-2f3f-49a1-b353-e5e4a0576cac" name="Default Changelist" comment="" />
+    <list default="true" id="309b39e7-2f3f-49a1-b353-e5e4a0576cac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577937283561</updated>
       <workItem from="1577937285207" duration="515000" />
-      <workItem from="1578208992486" duration="724000" />
+      <workItem from="1578208992486" duration="974000" />
     </task>
     <task id="LOCAL-00001" summary="Added the planning folder that contains the planned screenshots of the component tree.">
       <created>1578210405446</created>
@@ -87,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578210405446</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="another test commit.">
+      <created>1578210722842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578210722842</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,39 +106,40 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Added the planning folder that contains the planned screenshots of the component tree." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the planning folder that contains the planned screenshots of the component tree." />
+    <MESSAGE value="another test commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="another test commit." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="15" y="214" key="CommitChangelistDialog2" timestamp="1578210405289">
+    <state x="15" y="214" key="CommitChangelistDialog2" timestamp="1578210722698">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="15" y="214" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1578210405289" />
+    <state x="15" y="214" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1578210722698" />
     <state x="279" y="512" width="848" height="199" key="Github.ShareDialog" timestamp="1578210544721">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="279" y="512" width="848" height="199" key="Github.ShareDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1578210544721" />
-    <state width="894" height="330" key="GridCell.Tab.0.bottom" timestamp="1578210641051">
+    <state width="894" height="330" key="GridCell.Tab.0.bottom" timestamp="1578210838596">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="894" height="330" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1578210641051" />
-    <state width="894" height="330" key="GridCell.Tab.0.center" timestamp="1578210641050">
+    <state width="894" height="330" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1578210838596" />
+    <state width="894" height="330" key="GridCell.Tab.0.center" timestamp="1578210838595">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="894" height="330" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1578210641050" />
-    <state width="894" height="330" key="GridCell.Tab.0.left" timestamp="1578210641049">
+    <state width="894" height="330" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1578210838595" />
+    <state width="894" height="330" key="GridCell.Tab.0.left" timestamp="1578210838594">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="894" height="330" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1578210641049" />
-    <state width="894" height="330" key="GridCell.Tab.0.right" timestamp="1578210641050">
+    <state width="894" height="330" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1578210838594" />
+    <state width="894" height="330" key="GridCell.Tab.0.right" timestamp="1578210838595">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="894" height="330" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1578210641050" />
-    <state x="57" y="340" key="Vcs.Push.Dialog.v2" timestamp="1578210412844">
+    <state width="894" height="330" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1578210838595" />
+    <state x="57" y="340" key="Vcs.Push.Dialog.v2" timestamp="1578210736375">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="57" y="340" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1578210412844" />
+    <state x="57" y="340" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1578210736375" />
   </component>
 </project>

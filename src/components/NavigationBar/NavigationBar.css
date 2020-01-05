@@ -1,0 +1,21 @@
+.NavigationBarDesktop {
+    height: 6%;
+    width: 100%;
+
+    position: fixed;
+    position: -ms-device-fixed;
+    background-color: cornflowerblue;
+    color: white;
+
+    display: flex;
+    flex-direction: row; /* Align items in a row*/
+    align-items: center; /* Align Items vertically centered*/
+    justify-content: center; /*Align Items horizontally centered */
+}
+
+.Logo {
+    max-height: 90%;
+    max-width: 100%;
+    border-radius: 5px;
+    margin: 2px;
+}

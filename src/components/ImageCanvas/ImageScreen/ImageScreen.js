@@ -1,11 +1,10 @@
 import React from 'react'
-import default_image from '../../../assets/default-image.jpg'
 import classes from './ImageScreen.css'
 
-const imageScreen = () => {
+const imageScreen = (props) => {
     return (
         <div className={classes.ImageScreen}>
-            <img src={default_image} alt="default_image"/>
+            <img src={props.image_source} alt="default_image"/>
         </div>
 
     )

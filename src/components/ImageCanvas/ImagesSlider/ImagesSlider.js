@@ -6,7 +6,7 @@ class ImagesSlider extends Component {
     render() {
         return (
             <div className={classes.ImageSlider}>
-                <HorizontalImageScroll/>
+                <HorizontalImageScroll slider_images={this.props.slider_images}/>
             </div>
         )
     }

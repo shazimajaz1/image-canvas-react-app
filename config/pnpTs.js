@@ -9,13 +9,13 @@ exports.resolveModuleName = (
     compilerOptions,
     resolutionHost
 ) => {
-  return resolveModuleName(
-      moduleName,
-      containingFile,
-      compilerOptions,
-      resolutionHost,
-      typescript.resolveModuleName
-  );
+    return resolveModuleName(
+        moduleName,
+        containingFile,
+        compilerOptions,
+        resolutionHost,
+        typescript.resolveModuleName
+    );
 };
 
 exports.resolveTypeReferenceDirective = (
@@ -25,11 +25,11 @@ exports.resolveTypeReferenceDirective = (
     compilerOptions,
     resolutionHost
 ) => {
-  return resolveModuleName(
-      moduleName,
-      containingFile,
-      compilerOptions,
-      resolutionHost,
-      typescript.resolveTypeReferenceDirective
-  );
+    return resolveModuleName(
+        moduleName,
+        containingFile,
+        compilerOptions,
+        resolutionHost,
+        typescript.resolveTypeReferenceDirective
+    );
 };

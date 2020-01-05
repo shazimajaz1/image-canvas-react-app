@@ -3,4 +3,13 @@
     align-content: center;
     padding: 25px;
     margin: 25px;
+    height: 750px;
+}
+
+.ImageScreen img {
+    width: 95%;
+    max-height: 750px;
+    border-radius: 5px;
+    box-shadow: grey 2px 2px 1px;
+
 }

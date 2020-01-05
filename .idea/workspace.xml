@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="309b39e7-2f3f-49a1-b353-e5e4a0576cac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/modules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/paths.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/pnpTs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577937283561</updated>
       <workItem from="1577937285207" duration="515000" />
-      <workItem from="1578208992486" duration="974000" />
+      <workItem from="1578208992486" duration="1254000" />
     </task>
     <task id="LOCAL-00001" summary="Added the planning folder that contains the planned screenshots of the component tree.">
       <created>1578210405446</created>
@@ -97,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578210722842</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="another test commit.">
+      <created>1578210891745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578210891745</updated>
+    </task>
+    <task id="LOCAL-00004" summary="another test commit.">
+      <created>1578210940376</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578210940376</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,30 +138,30 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="15" y="214" key="CommitChangelistDialog2" timestamp="1578210891640">
+    <state x="15" y="214" key="CommitChangelistDialog2" timestamp="1578210940274">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="15" y="214" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1578210891640" />
+    <state x="15" y="214" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1578210940274" />
     <state x="279" y="512" width="848" height="199" key="Github.ShareDialog" timestamp="1578210544721">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="279" y="512" width="848" height="199" key="Github.ShareDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1578210544721" />
-    <state width="894" height="330" key="GridCell.Tab.0.bottom" timestamp="1578210838596">
+    <state width="894" height="330" key="GridCell.Tab.0.bottom" timestamp="1578211111183">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="894" height="330" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1578210838596" />
-    <state width="894" height="330" key="GridCell.Tab.0.center" timestamp="1578210838595">
+    <state width="894" height="330" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1578211111183" />
+    <state width="894" height="330" key="GridCell.Tab.0.center" timestamp="1578211111182">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="894" height="330" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1578210838595" />
-    <state width="894" height="330" key="GridCell.Tab.0.left" timestamp="1578210838594">
+    <state width="894" height="330" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1578211111182" />
+    <state width="894" height="330" key="GridCell.Tab.0.left" timestamp="1578211111181">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="894" height="330" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1578210838594" />
-    <state width="894" height="330" key="GridCell.Tab.0.right" timestamp="1578210838595">
+    <state width="894" height="330" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1578211111181" />
+    <state width="894" height="330" key="GridCell.Tab.0.right" timestamp="1578211111182">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="894" height="330" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1578210838595" />
+    <state width="894" height="330" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1578211111182" />
     <state x="57" y="340" key="Vcs.Push.Dialog.v2" timestamp="1578210895171">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>

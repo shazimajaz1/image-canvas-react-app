@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="309b39e7-2f3f-49a1-b353-e5e4a0576cac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/logo_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Logo/Logo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Logo/Logo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavigationBar/NavigationBar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavigationBar/NavigationBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/default-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCanvas/ImageCanvas.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCanvas/ImageCanvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCanvas/ImageScreen/ImageScreen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCanvas/ImageScreen/ImageScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCanvas/ImagesSlider/HorizontalImageScroll/HorizontalImageScroll.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCanvas/ImagesSlider/HorizontalImageScroll/HorizontalImageScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCanvas/ImagesSlider/ImagesSlider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCanvas/ImagesSlider/ImagesSlider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCanvas/ImagesSlider/SliderImage/SliderImage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCanvas/ImagesSlider/SliderImage/SliderImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCanvas/ImagesSlider/SliderNavigation/SliderNavigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ImageCanvas/ImagesSlider/SliderNavigation/SliderNavigation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavigationBar/NavigationBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavigationBar/NavigationBar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +55,7 @@
       <recent name="$PROJECT_DIR$/Planning" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/components" />
       <recent name="$PROJECT_DIR$/Planning" />
@@ -88,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577937283561</updated>
       <workItem from="1577937285207" duration="515000" />
-      <workItem from="1578208992486" duration="3889000" />
+      <workItem from="1578208992486" duration="11835000" />
     </task>
     <task id="LOCAL-00001" summary="Added the planning folder that contains the planned screenshots of the component tree.">
       <created>1578210405446</created>
@@ -125,26 +136,34 @@
       <option name="project" value="LOCAL" />
       <updated>1578211141013</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Created NavigationBar component and added it to the Application.">
+      <created>1578214193262</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578214193262</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Added the planning folder that contains the planned screenshots of the component tree." />
     <MESSAGE value="another test commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="another test commit." />
+    <MESSAGE value="Created NavigationBar component and added it to the Application." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created NavigationBar component and added it to the Application." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="15" y="214" key="CommitChangelistDialog2" timestamp="1578211140824">
+    <state x="15" y="214" key="CommitChangelistDialog2" timestamp="1578214193088">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="15" y="214" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1578211140824" />
+    <state x="15" y="214" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1578214193088" />
     <state x="279" y="512" width="848" height="199" key="Github.ShareDialog" timestamp="1578210544721">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
@@ -165,13 +184,17 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state width="894" height="330" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1578211111182" />
-    <state x="57" y="340" key="Vcs.Push.Dialog.v2" timestamp="1578210895171">
+    <state x="210" y="329" key="RollbackChangesDialog" timestamp="1578216778099">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="57" y="340" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1578210895171" />
-    <state x="122" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1578212392230">
+    <state x="210" y="329" key="RollbackChangesDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1578216778099" />
+    <state x="57" y="340" key="Vcs.Push.Dialog.v2" timestamp="1578214204223">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="122" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1578212392230" />
+    <state x="57" y="340" key="Vcs.Push.Dialog.v2/0.23.1920.1177@0.23.1920.1177" timestamp="1578214204223" />
+    <state x="122" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1578215811505">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="122" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1578215811505" />
   </component>
 </project>

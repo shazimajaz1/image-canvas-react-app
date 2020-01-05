@@ -1,0 +1,8 @@
+.SliderImage {
+    height: 100px;
+    width: auto;
+    margin: 3px;
+    box-shadow: grey 1px 1px;
+    border-radius: 2px;
+    background-color: silver;
+}

@@ -1,9 +1,8 @@
 .NavigationBarDesktop {
-    height: 6%;
+    height: 60px;
     width: 100%;
 
-    position: fixed;
-    position: -ms-device-fixed;
+
     background-color: cornflowerblue;
     color: white;
 
@@ -11,6 +10,7 @@
     flex-direction: row; /* Align items in a row*/
     align-items: center; /* Align Items vertically centered*/
     justify-content: center; /*Align Items horizontally centered */
+
 }
 
 .Logo {

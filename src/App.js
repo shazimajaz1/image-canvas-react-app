@@ -1,6 +1,7 @@
 import React from 'react';
 import classes from './App.css';
 import NavigationBar from "./components/NavigationBar/NavigationBar";
+import ImageCanvas from "./components/ImageCanvas/ImageCanvas";
 
 function App() {
     return (
@@ -9,8 +10,7 @@ function App() {
             <NavigationBar/>
 
             {/*This will be replaced by the actual image canvas*/}
-            <div>Image Canvas</div>
-
+            <ImageCanvas/>
         </div>
 
     );

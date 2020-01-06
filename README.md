@@ -5,4 +5,4 @@ A planning folder is also available inside the repository to view the layout of 
 
 The project is still under development. 
 
-#CSC Modules are used in this project. 
+#CSS Modules are used in this project. 
